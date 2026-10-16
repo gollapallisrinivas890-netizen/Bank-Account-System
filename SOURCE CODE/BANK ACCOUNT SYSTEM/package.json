@@ -1,0 +1,36 @@
+{
+  "name": "bank-account-management-system",
+  "version": "1.0.0",
+  "description": "Bank Account Management System Using C++ - Full-Stack Educational Prototype for Batch 13, Aditya University",
+  "main": "api/index.ts",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:backend": "cd backend && npm run build",
+    "build:frontend": "cd frontend && npm run build",
+    "build": "cd frontend && npm install && npm run build",
+    "test": "cd backend && npm test",
+    "compile:cpp": "g++ -std=c++11 Batch_13_Bank_Account_Management_System.cpp -o Batch_13_Bank_Account_Management_System.exe"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "sql.js": "^1.12.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.7",
+    "@types/sql.js": "^1.4.9",
+    "typescript": "^5.7.3"
+  },
+  "keywords": [
+    "banking-system",
+    "cpp-project",
+    "react",
+    "typescript",
+    "sqlite"
+  ],
+  "author": "Batch 13 (G. Srinivas, P. Sai Tharun, B. Venkatesh, T. Harika)",
+  "license": "ISC"
+}

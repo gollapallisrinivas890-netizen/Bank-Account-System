@@ -1,0 +1,42 @@
+
+=== slide1.xml ===
+  CORNERSTONE PROJECT REVIEW – 2 2026–2027 Object Oriented Programming through C++ Bank Account Management System Using C++ Presented By:                                                25B11AI349- G Srinivas 25B11AIA53 - P Sai Tharun 25B11AI136- B Venkatesh 25B11AI982-T Harika Guided By: T Vijaya Lakshmi madam Department  :  Artificial Intelligence &amp; Machine Learning
+
+=== slide10.xml ===
+ARCHITECTURE DIAGRAM
+
+=== slide11.xml ===
+ER DIAGRAM / DFD
+
+=== slide12.xml ===
+PLANNING AND TIMELINE DIAGRAM
+
+=== slide13.xml ===
+ROLE OF EACH  INDIVIDUAL     ~  G Srinivas - Project Manager &amp; System Analyst  Defines project objectives and requirements. Plans the overall project workflow. Coordinates the work of all team members. Design the basic system architecture. Helps integrate all modules. Monitors project progress. ~  B Venkatesh – Transaction Developer Develops the Deposit Module. Develops the Withdrawal Module. Implements transaction recording. Check sufficient balance before withdrawal. Update account balance after transactions. Tests deposit and withdrawal operations.   ~  P Sai Tharun - Account Management  Develops the Account Creation Modules. Implements customer and account details. Develops Search Account functionality. Implements  Update Account functionality. Implements Balance Enquiry. Tests account-related operations. ~  T Harika – Database, Testing &amp; Documentation  •    Design the ER Diagram and DFD. Implements CSV/Text File Storage. Manages customer, account, and transaction records. Perform system testing and debugging. Prepares project documentation and PPT. Supports final project demonstration.
+
+=== slide14.xml ===
+THANK YOU!
+
+=== slide2.xml ===
+INDEX Abstract  Introduction  Problem Statement  Objectives of Project Users of the system Modules/Functionalities Architecture Diagram ER Diagram / DFD Planning and Timeline Diagram Role of each individual
+
+=== slide3.xml ===
+ABSTRACT The  Bank Account Management System  is a C++-based application designed to simulate basic banking operations in a simple and organized environment. The system allows users to create and manage bank accounts and perform operations such as  depositing money, withdrawing money, checking account balance, and viewing account details.  The main purpose of the project is to provide a  simple and user-friendly environment for understanding banking operations, account management, transaction handling, and basic financial activities
+
+=== slide4.xml ===
+INTRODUCTION The  Bank Account Management System  is a C++-based application developed to manage basic banking activities in a simple and organized way. It allows users to create bank accounts, store customer details, and perform common operations such as  deposit, withdrawal, balance enquiry, and viewing account details . It provides a  simple and user-friendly approach  to handling banking operations and demonstrates the practical implementation of  Object-Oriented Programming concepts in C++ , such as classes, objects, data members, and member functions.
+
+=== slide5.xml ===
+PROBLEM STATEMENT Manual management of bank accounts can be time-consuming and may cause errors in maintaining customer details and transactions. A simple and user-friendly system is needed to manage  account creation, deposits, withdrawals, balance enquiry, and account details  efficiently.
+
+=== slide6.xml ===
+PROPOSED SOLUTION Develop a  C++ Bank Account Management System  that provides account creation, customer details management, deposit, withdrawal, balance enquiry, and account information management. The system will maintain account records and transaction details for each customer Thus, the system helps users understand  banking operations, account management, transaction handling, and basic financial activities  in a simple, organized, and practical way.
+
+=== slide7.xml ===
+OBJECTIVES OF  PROJECT
+
+=== slide8.xml ===
+USERS OF THE SYSTEM
+
+=== slide9.xml ===
+MODULES/FUNCTIONALITIES Login Module  – Provides secure access to authorized users. Account Creation  – Creates new customer bank accounts. Account Details  – Stores and displays customer and account information. Deposit  – Adds money to the customer’s account. Withdrawal  – Allows users to withdraw available money. Balance Enquiry  – Shows the current account balance. Search Account  – Finds accounts using account number or customer name. Update Account  – Modifies customer or account details. Transaction Module  – Records deposits and withdrawals. File Storage  – Saves account and transaction records in files.
